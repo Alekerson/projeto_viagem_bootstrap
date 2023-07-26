@@ -1,7 +1,7 @@
 .ms-title{
-    margin-left: 20%;
+    margin-left: 12%;
 }
 
-.w{
-    width:80%;
-}
+header div main div:hover{box-shadow: 0 0 7px black; cursor: pointer;}
+
+header div div li:hover{ cursor: pointer;}
