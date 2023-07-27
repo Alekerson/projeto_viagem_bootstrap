@@ -2,7 +2,7 @@ header div main div:hover{box-shadow: 0 0 7px black; cursor: pointer;}
 
 header div div li:hover{ cursor: pointer;}
 
-@media screen and (min-width:200px) and (max-width:768px){
+@media screen and (min-width:200px) and (max-width:992px){
     header div main {order: 2;}
     .ms-title{margin: 0;}
     .ms-80{margin-left: 0;}
